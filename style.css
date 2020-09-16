@@ -1,0 +1,71 @@
+body{
+    background-color: #f4f4f4;
+}
+#container{
+    text-align: center;
+    line-height: 1.5em;
+} 
+.title h1{
+    font-family: 'Exo 2', sans-serif;
+    color: rgb(44, 44, 250);
+    padding-top: 36px;
+    font-size: 50px;
+}
+.main{
+    width: 415px;
+    height: 320px;
+    border: 1px solid white;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    background: white;
+}
+.main p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: thin;
+    padding: 5px 0 5px 0;
+}
+.main form .name{
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    padding: 13px;
+    border-radius: 6px;
+    border-width: 2;
+    border-color: whitesmoke;
+}
+.main form .pass{
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    padding: 13px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: whitesmoke;
+}
+.box{
+    margin: 15px;
+}
+.box button{
+    border: none;
+    padding: 0 24px;
+    line-height: 43px;
+    width: 380px;
+    border-radius: 6px;
+    background: rgb(44, 44, 250);
+    color: white;
+    font-size: 22px;
+}
+.link .a1{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0 5px 0 0;
+}
+.link .a2{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0 0 0 5px;
+}
